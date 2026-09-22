@@ -11,6 +11,11 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 - Data: `[dd/mm/aaaa]`
 
 ## Preenchimento
+integrantes:
+daniel da silva mendes
+sergio apolinario
+nickolas  da silva coquejo
+pedro henrry firmino mariano
 
 ### Área geral
 
@@ -19,6 +24,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Tema delimitado
 
 `[Escreva o tema específico em uma ou duas frases.]`
+Inclusão digital e redução de desigualdades
 
 ### Do tema amplo ao específico
 
