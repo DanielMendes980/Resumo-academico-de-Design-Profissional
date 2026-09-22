@@ -1,0 +1,1 @@
+# Resumo-acad-mico-de-Design-Profissional
