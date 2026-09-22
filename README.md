@@ -1,5 +1,7 @@
 # Etapa 1 Tema e delimitação
 
+O tema é importante para ajudar as pessoa de baixa renda com menos oportunidade socioeconomicas, devida a falta acessebilidade devida a parte economica oque ocasiona na dificuldade de acesso a atividade, 
+
 ## Solicitação
 
 Defina um tema específico, relevante e viável para o artigo de revisão bibliográfica.
