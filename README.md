@@ -7,15 +7,14 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
-
-## Preenchimento
-integrantes:
+- Integrantes: `[integrantes:
 daniel da silva mendes
 sergio apolinario
 nickolas  da silva coquejo
-pedro henrry firmino mariano
+  pedro henrry firmino mariano]`
+- Data: `[22/09/2026]`
+
+## Preenchimento
 
 ### Área geral
 
