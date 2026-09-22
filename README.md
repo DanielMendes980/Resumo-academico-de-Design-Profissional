@@ -20,6 +20,7 @@ pedro henrry firmino mariano
 ### Área geral
 
 `[Qual é a área ampla de interesse?]`
+tecnologia, inclusão digital e responsabilidade social
 
 ### Tema delimitado
 
