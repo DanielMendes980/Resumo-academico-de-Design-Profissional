@@ -10,31 +10,48 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
-A
+`[Analisar como resolver a dificuldade de acesso à tecnologia para pessoas mais humildes.]` 
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[facilitar o acesso a tecnologias para pessoas de periferia]`
+2. `[melhorias de acessos a informações para pessoas de periferia ]`
+3. `[disponibilidade de dispositivo em escolas publicas facilitando o acesso a familias de baixa renda]`
+4. `[N/A]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Como ajudar resolver a dificuldade de acesso a tecnologia mais humildes ?]` |
+| Objetivo geral | `[Capta maneiras de facilitar a resolução do problema (isso não quer dizer que ele sera resolvido)]` |
+| Resultado esperado | `[Ajudar pessoas humildes ]` |
 
 ## Produto da etapa
+ Objetivo geral
 
-Um objetivo geral e de três a quatro objetivos específicos.
+**Analisar as dificuldades de acesso à tecnologia enfrentadas por pessoas de baixa renda e como a inclusão digital pode ajudar a reduzir essas desigualdades.**
+
+## Objetivos específicos
+
+* **Identificar** as principais dificuldades econômicas que dificultam o acesso à tecnologia.
+* **Analisar** como a falta de acesso à tecnologia pode afetar a educação, a informação e as oportunidades de trabalho.
+* **Identificar** formas de facilitar o acesso à tecnologia para pessoas de baixa renda.
+* **Discutir** como a inclusão digital pode contribuir para reduzir as desigualdades sociais.
+
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x] Os objetivos começam com verbos no infinitivo.
+- [x] O objetivo geral responde ao problema.
+- [x] Os objetivos específicos detalham o objetivo geral.
+- [x] Os objetivos são compatíveis com uma revisão bibliográfica.
+
+## Contribuições
+
+| Integrante | Atividade realizada |
+|---|---|
+| `[nome]` | `[daniel da silva mendes,
+ sergio apolinario,
+ nickolas  da silva coquejo,
+ pedro henrry firmino mariano]` |
