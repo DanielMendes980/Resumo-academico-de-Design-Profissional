@@ -67,7 +67,6 @@ A inclusão digital é importante porque pode ajudar essas pessoas a terem mais 
 
 | Integrante | Atividade realizada |
 |---|---|
-|`[nome]`
 `[Integrantes:
  daniel da silva mendes,
  sergio apolinario,
