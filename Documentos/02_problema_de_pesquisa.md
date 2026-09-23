@@ -36,7 +36,7 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[daniel da silva mendes,
+|daniel da silva mendes,
  sergio apolinario,
  nickolas  da silva coquejo,
- pedro henrry firmino mariano]` |
+ pedro henrry firmino mariano |
