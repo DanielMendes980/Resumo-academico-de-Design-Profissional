@@ -67,8 +67,8 @@ A inclusão digital é importante porque pode ajudar essas pessoas a terem mais 
 
 | Integrante | Atividade realizada |
 |---|---|
-
- daniel da silva mendes,
+ |daniel da silva mendes,
  sergio apolinario,
  nickolas  da silva coquejo,
  pedro henrry firmino mariano |
+
