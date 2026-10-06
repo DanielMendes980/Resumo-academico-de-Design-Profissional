@@ -1,56 +1,41 @@
-# Etapa 6 Redação do artigo
-
-## Solicitação
-
-Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a 1000 palavras.
-
-# Título
-
-`\\\[Título claro e coerente com o tema]`
+# Inclusão digital e redução das desigualdades socioeconômicas
 
 ## Palavras-chave
 
-`\\\[palavra 1]; \\\[palavra 2]; \\\[palavra 3]`
+Inclusão digital; tecnologia; desigualdade social.
 
 ## Introdução
 
-`\\\[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+Muitas pessoas de baixa renda ainda têm dificuldade para acessar internet e tecnologia. O trabalho analisa como a inclusão digital pode ajudar a diminuir essas desigualdades.
 
 ## Metodologia
 
-`\\\[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+Foi realizada uma revisão bibliográfica de três artigos publicados entre 2021 e 2025, comparando seus objetivos, resultados e limitações.
 
 ## Revisão da literatura
 
-### `\\\[Eixo 1]`
+### Acesso à tecnologia
 
-`\\\[Compare estudos, resultados, métodos e limitações.]`
+Os artigos mostram que a falta de internet e equipamentos pode prejudicar principalmente a educação e as oportunidades de pessoas de baixa renda.
 
-### `\\\[Eixo 2]`
+### Tecnologia na educação
 
-`\\\[Compare estudos, resultados, métodos e limitações.]`
+Os estudos mostram que políticas públicas, acesso à tecnologia e educação digital podem ajudar a diminuir as desigualdades.
 
 ### Síntese crítica
 
-`\\\[Apresente tendências, convergências, divergências e lacunas.]`
+Os três artigos concordam que apenas disponibilizar tecnologia não é suficiente. Também é necessário acesso adequado e conhecimento para utilizá-la.
 
 ## Considerações finais
 
-`\\\[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+A inclusão digital pode ajudar a reduzir desigualdades, mas é necessário facilitar o acesso à internet, equipamentos e capacitação.
 
 ## Resumo
 
-`\\\[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+O trabalho analisa as dificuldades de acesso à tecnologia por pessoas de baixa renda. A partir de três artigos, foi possível perceber que a falta de tecnologia pode prejudicar oportunidades educacionais. A inclusão digital pode ajudar a reduzir essas desigualdades.
 
 ## Referências
 
-`\\\[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
-
-## Checklist
-
-* \[ ] A introdução termina com o objetivo.
-* \[ ] A metodologia descreve o processo realmente realizado.
-* \[ ] A revisão compara os artigos.
-* \[ ] A conclusão responde ao problema.
-* \[ ] O resumo representa o texto completo.
-
+* Muniz et al. (2021).
+* *Política Nacional de Educação Digital* (2024).
+* *Exclusão digital e seus impactos sobre a proficiência no ENEM* (2025).
