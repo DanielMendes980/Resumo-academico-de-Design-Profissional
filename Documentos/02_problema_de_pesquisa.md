@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Como ajudar resolver a dificuldade de acesso a tecnologia mais humildes ?]`
+`[Como ajudar resolver a dificuldade de acesso a tecnologia a pessoas mais humildes ?]`
 
 ## Verificação
 
