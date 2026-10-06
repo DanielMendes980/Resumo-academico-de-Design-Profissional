@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[Como  ajudar resolver a dificuldade de acesso a tecnologia mais humildes ?]`
+`[Como ajudar resolver a dificuldade de acesso a tecnologia das pessoas mais humildes ?]`
 
 ## Objetivo geral
 
