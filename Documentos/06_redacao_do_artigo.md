@@ -33,14 +33,13 @@ A inclusão digital pode ajudar a reduzir desigualdades, mas é necessário faci
 ## Resumo
 
 O trabalho analisa as dificuldades de acesso à tecnologia por pessoas de baixa renda. A partir de três artigos, foi possível perceber que a falta de tecnologia pode prejudicar oportunidades educacionais. A inclusão digital pode ajudar a reduzir essas desigualdades.
+* Muniz et al. (2021).
+* *Política Nacional de Educação Digital* (2024).
+* *Exclusão digital e seus impactos sobre a proficiência no ENEM* (2025).
 
-## Checklist
+  ## Checklist
 * \[X] A introdução termina com o objetivo.
 * \[X] A metodologia descreve o processo realmente realizado.
 * \[X] A revisão compara os artigos.
 * \[X] A conclusão responde ao problema.
 * \[X] O resumo representa o texto completo.
-
-* Muniz et al. (2021).
-* *Política Nacional de Educação Digital* (2024).
-* *Exclusão digital e seus impactos sobre a proficiência no ENEM* (2025).
